@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aamir-tufail (Aamir Tufail Ahmad)
+- 👀 I’m interested in Programming/Gaming/PC hardware
+- 🌱 I’m currently learning Golang/Java/Kotlin
+- 💞️ I’m looking to collaborate on Golang/Kotlin
+- 📫 How to reach me (ping me on Github)
